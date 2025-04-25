@@ -8,5 +8,5 @@ The included features are:
 # How to use the skript
 @MetaAI then paste your skript of choice
 
-#How do I disable the skript
+# How do I disable the skript
 To disable it you must deleate the initial mesage that tells meta ai to start the ban
